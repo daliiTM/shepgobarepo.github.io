@@ -46,6 +46,22 @@ Description: Add a percent indicator for music completion on iOS 11/12
 Author: shepgoba
 Name: BeatCane
 
+Package: com.shepgoba.ccmonoaudio
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: shepgoba
+Installed-Size: 144
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.shepgoba.ccmonoaudio_0.1-5_iphoneos-arm.deb
+Size: 10888
+MD5sum: 0bd6a05e2a1ab86036bf5de3f9b1a042
+SHA1: 29c8cb2b7a6201b9e2ade61efd3842449853ec61
+SHA256: 63fcbdc1dfaea40834ee742f14e867fbae4632b69294491dc9c75161eb14fba6
+Section: Control Center (Modules)
+Description: Toggle mono audio easily from the control center!
+Author: shepgoba
+Name: CCMonoAudio
+
 Package: com.shepgoba.cleanphonepad
 Version: 1.0.0
 Architecture: iphoneos-arm
