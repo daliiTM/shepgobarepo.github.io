@@ -334,6 +334,22 @@ Description: Hide the delete option for apps on iOS 13
 Author: shepgoba
 Name: Remove3DOptions
 
+Package: com.shepgoba.settingswidgets
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shepgoba
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debs/com.shepgoba.settingswidgets_1.0_iphoneos-arm.deb
+Size: 19768
+MD5sum: 18a64fc863c6a23f794c6cb59e3cf43e
+SHA1: 8fa2132affab8e30a5b4633ab7a7dc67b26ddcd3
+SHA256: dad9df7b22967682666f358166e0904165a40981cef8a2a4d6b1e18c92874264
+Section: Tweaks
+Description: Bring good looking widgets to the front page of settings!
+Author: shepgoba
+Name: SettingsWidgets
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.5
 Architecture: iphoneos-arm
