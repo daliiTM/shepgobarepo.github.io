@@ -341,10 +341,10 @@ Maintainer: shepgoba
 Installed-Size: 144
 Depends: mobilesubstrate
 Filename: debs/com.shepgoba.settingswidgets_1.0_iphoneos-arm.deb
-Size: 19768
-MD5sum: 18a64fc863c6a23f794c6cb59e3cf43e
-SHA1: 8fa2132affab8e30a5b4633ab7a7dc67b26ddcd3
-SHA256: dad9df7b22967682666f358166e0904165a40981cef8a2a4d6b1e18c92874264
+Size: 19924
+MD5sum: 6279afd3ea3fba1c868854abbc7a69c2
+SHA1: 23034b2672214000fc79fce0c9ef4d0d163813ed
+SHA256: 3b8d73db97a6a02588c1bd97c9341a966dbe9b35db42c4bb00d16ca8ad2df068
 Section: Tweaks
 Description: Bring good looking widgets to the front page of settings!
 Author: shepgoba
