@@ -366,6 +366,22 @@ Description: Bring good looking widgets to the front page of settings!
 Author: shepgoba
 Name: SettingsWidgets
 
+Package: com.shepgoba.settingswidgets
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shepgoba
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: debs/com.shepgoba.settingswidgets_1.0.2_iphoneos-arm.deb
+Size: 32404
+MD5sum: 2b79e85c4e5261d07cb4923346c18679
+SHA1: 858b184e82cc8b3d34495316079b0ae857851c4a
+SHA256: 341975683e2d7135cea085691fdf8b0fea1859153c2e0b081740f130dab92c6b
+Section: Tweaks
+Description: Bring good looking widgets to the front page of settings!
+Author: shepgoba
+Name: SettingsWidgets
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.5
 Architecture: iphoneos-arm
